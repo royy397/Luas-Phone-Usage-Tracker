@@ -1,0 +1,25 @@
+date,day,time,luas_stop,line,people_on_phones,total_passengers,weather
+2026-10-22,Thursday,08:40,Tallaght,Green,14,28,Dry
+2026-10-22,Thursday,08:52,Broombridge,Green,14,28,Dry
+2026-10-22,Thursday,16:20,Brides Glen,Red,18,36,Dry
+2026-10-22,Thursday,16:35,Connolly,Red,18,36,Dry
+2026-10-23,Friday,09:15,Saggart,Green,19,33,Rain
+2026-10-23,Friday,09:28,Broombridge,Green,19,33,Rain
+2026-10-23,Friday,17:05,Sandyford,Red,22,41,Rain
+2026-10-23,Friday,17:22,Connolly,Red,22,41,Rain
+2026-10-26,Monday,08:25,Tallaght,Green,16,31,Dry
+2026-10-26,Monday,08:36,Broombridge,Green,16,31,Dry
+2026-10-26,Monday,17:55,Brides Glen,Red,20,38,Dry
+2026-10-26,Monday,18:08,Connolly,Red,20,38,Dry
+2026-10-27,Tuesday,09:40,Saggart,Green,21,35,Rain
+2026-10-27,Tuesday,09:53,Broombridge,Green,21,35,Rain
+2026-10-27,Tuesday,18:10,Sandyford,Red,25,44,Rain
+2026-10-27,Tuesday,18:27,Connolly,Red,25,44,Rain
+2026-10-28,Wednesday,08:50,Tallaght,Green,17,30,Cold
+2026-10-28,Wednesday,09:04,Broombridge,Green,17,30,Cold
+2026-10-28,Wednesday,16:35,Brides Glen,Red,19,39,Cold
+2026-10-28,Wednesday,16:47,Connolly,Red,19,39,Cold
+2026-10-29,Thursday,10:20,Saggart,Green,18,32,Cold
+2026-10-29,Thursday,10:37,Broombridge,Green,18,32,Cold
+2026-10-29,Thursday,17:30,Sandyford,Red,21,40,Cold
+2026-10-29,Thursday,17:45,Connolly,Red,21,40,Cold
