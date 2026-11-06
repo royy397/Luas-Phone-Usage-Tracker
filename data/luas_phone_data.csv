@@ -29,3 +29,5 @@ date,day,time,luas_stop,line,people_on_phones,total_passengers,weather
 2026-11-02,Monday,17:34,Connolly,Red,7,48,Dry
 2026-11-03,Tuesday,11:22,Saggart,Green,24,29,Cloudy
 2026-11-03,Tuesday,11:35,Broombridge,Green,24,29,Cloudy
+2026-11-03,Tuesday,17:18,Sandyford,Red,22,30,Cloudy
+2026-11-03,Tuesday,17:34,Connolly,Red,22,30,Cloudy
