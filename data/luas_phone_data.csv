@@ -51,3 +51,7 @@ date,day,time,luas_stop,line,people_on_phones,total_passengers,weather
 2026-11-10,Tuesday,09:53,Broombridge,Green,24,47,Rain
 2026-11-10,Tuesday,16:40,Sandyford,Red,26,50,Rain
 2026-11-10,Tuesday,16:46,Connolly,Red,26,50,Rain
+2026-11-11,Wednesday,08:21,Tallaght,Green,22,44,Dry
+2026-11-11,Wednesday,08:31,Broombridge,Green,22,44,Dry
+2026-11-11,Wednesday,12:10,Brides Glen,Red,20,42,Dry
+2026-11-11,Wednesday,12:26,Connolly,Red,20,42,Dry
