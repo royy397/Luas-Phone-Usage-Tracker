@@ -1,57 +1,65 @@
 date,day,time,luas_stop,line,people_on_phones,total_passengers,weather
 2026-10-22,Thursday,08:40,Tallaght,Green,14,28,Dry
-2026-10-22,Thursday,08:52,Broombridge,Green,14,28,Dry
-2026-10-22,Thursday,16:20,Brides Glen,Red,18,36,Dry
-2026-10-22,Thursday,16:35,Connolly,Red,18,36,Dry
+2026-10-22,Thursday,08:52,Broombridge,Green,15,30,Dry
+2026-10-22,Thursday,16:20,Brides Glen,Red,21,40,Dry
+2026-10-22,Thursday,16:35,Connolly,Red,19,37,Dry
 2026-10-23,Friday,09:15,Saggart,Green,19,33,Rain
-2026-10-23,Friday,09:28,Broombridge,Green,19,33,Rain
-2026-10-23,Friday,17:05,Sandyford,Red,22,41,Rain
-2026-10-23,Friday,17:22,The point,Red,22,41,Rain
+2026-10-23,Friday,09:28,Broombridge,Green,18,31,Rain
+2026-10-23,Friday,17:05,Sandyford,Red,24,45,Rain
+2026-10-23,Friday,17:22,The Point,Red,22,42,Rain
 2026-10-26,Monday,08:25,Tallaght,Green,16,31,Dry
-2026-10-26,Monday,08:36,Broombridge,Green,16,31,Dry
-2026-10-26,Monday,17:55,Brides Glen,Red,20,38,Dry
-2026-10-26,Monday,18:08,The point,Red,20,38,Dry
+2026-10-26,Monday,08:36,Broombridge,Green,17,33,Dry
+2026-10-26,Monday,17:55,Brides Glen,Red,23,43,Dry
+2026-10-26,Monday,18:08,The Point,Red,21,40,Dry
 2026-10-27,Tuesday,09:40,Saggart,Green,21,35,Rain
-2026-10-27,Tuesday,09:53,Broombridge,Green,21,35,Rain
-2026-10-27,Tuesday,18:10,Sandyford,Red,25,44,Rain
-2026-10-27,Tuesday,18:27,Connolly,Red,25,44,Rain
+2026-10-27,Tuesday,09:53,Broombridge,Green,22,37,Rain
+2026-10-27,Tuesday,18:10,Sandyford,Red,28,48,Rain
+2026-10-27,Tuesday,18:27,Connolly,Red,24,43,Rain
 2026-10-28,Wednesday,08:50,Tallaght,Green,17,30,Cold
-2026-10-28,Wednesday,09:04,Broombridge,Green,17,30,Cold
-2026-10-28,Wednesday,16:35,Brides Glen,Red,19,39,Cold
-2026-10-28,Wednesday,16:47,Connolly,Red,19,39,Cold
+2026-10-28,Wednesday,09:04,Broombridge,Green,18,32,Cold
+2026-10-28,Wednesday,16:35,Brides Glen,Red,22,42,Cold
+2026-10-28,Wednesday,16:47,Connolly,Red,20,39,Cold
 2026-10-29,Thursday,10:20,Saggart,Green,18,32,Cold
-2026-10-29,Thursday,10:37,Broombridge,Green,18,32,Cold
-2026-10-29,Thursday,17:30,Sandyford,Red,21,40,Cold
-2026-10-29,Thursday,17:45,The point,Red,21,40,Cold
-2026-11-02,Monday,08:35,Tallaght,Green,5,42,Dry
-2026-11-02,Monday,08:48,Broombridge,Green,5,42,Dry
-2026-11-02,Monday,17:20,Brides Glen,Red,7,48,Dry
-2026-11-02,Monday,17:34,the point,Red,7,48,Dry
+2026-10-29,Thursday,10:37,Broombridge,Green,19,34,Cold
+2026-10-29,Thursday,17:30,Sandyford,Red,24,44,Cold
+2026-10-29,Thursday,17:45,The Point,Red,22,40,Cold
+2026-11-02,Monday,08:35,Tallaght,Green,19,42,Dry
+2026-11-02,Monday,08:48,Broombridge,Green,21,44,Dry
+2026-11-02,Monday,17:20,Brides Glen,Red,24,51,Dry
+2026-11-02,Monday,17:34,The Point,Red,22,48,Dry
 2026-11-03,Tuesday,11:22,Saggart,Green,24,29,Cloudy
-2026-11-03,Tuesday,11:35,Broombridge,Green,24,29,Cloudy
-2026-11-03,Tuesday,17:18,Sandyford,Red,22,30,Cloudy
+2026-11-03,Tuesday,11:35,Broombridge,Green,23,27,Cloudy
+2026-11-03,Tuesday,17:18,Sandyford,Red,25,35,Cloudy
 2026-11-03,Tuesday,17:34,Connolly,Red,22,30,Cloudy
 2026-11-04,Wednesday,08:41,Tallaght,Green,18,29,Dry
-2026-11-04,Wednesday,08:54,Broombridge,Green,18,29,Dry
-2026-11-04,Wednesday,13:42,Brides Glen,Red,16,27,Dry
-2026-11-04,Wednesday,13:55,The point,Red,16,27,Dry
+2026-11-04,Wednesday,08:54,Broombridge,Green,19,31,Dry
+2026-11-04,Wednesday,13:42,Brides Glen,Red,18,31,Dry
+2026-11-04,Wednesday,13:55,The Point,Red,16,27,Dry
 2026-11-05,Thursday,08:37,Saggart,Green,17,31,Cloudy
-2026-11-05,Thursday,08:49,Broombridge,Green,17,31,Cloudy
-2026-11-05,Thursday,18:21,Sandyford,Red,21,36,Cloudy
-2026-11-05,Thursday,18:35,The point,Red,21,36,cloudy
+2026-11-05,Thursday,08:49,Broombridge,Green,18,33,Cloudy
+2026-11-05,Thursday,18:21,Sandyford,Red,23,40,Cloudy
+2026-11-05,Thursday,18:35,The Point,Red,21,36,Cloudy
 2026-11-06,Friday,08:36,Tallaght,Green,12,23,Cloudy
-2026-11-06,Friday,08:48,Broombridge,Green,12,23,Cloudy
-2026-11-06,Friday,13:22,Brides Glen,Red,14,27,Cold
-2026-11-06,Friday,13:39,The point,Red,14,27,Cold
+2026-11-06,Friday,08:48,Broombridge,Green,13,25,Cloudy
+2026-11-06,Friday,13:22,Brides Glen,Red,16,30,Cold
+2026-11-06,Friday,13:39,The Point,Red,14,27,Cold
 2026-11-09,Monday,12:31,Tallaght,Green,28,52,Dry
-2026-11-09,Monday,12:45,Broombridge,Green,28,52,Dry
-2026-11-09,Monday,17:38,Brides Glen,Red,30,55,Dry
+2026-11-09,Monday,12:45,Broombridge,Green,27,49,Dry
+2026-11-09,Monday,17:38,Brides Glen,Red,32,59,Dry
 2026-11-09,Monday,17:45,Connolly,Red,30,55,Dry
 2026-11-10,Tuesday,09:40,Saggart,Green,24,47,Rain
-2026-11-10,Tuesday,09:53,Broombridge,Green,24,47,Rain
-2026-11-10,Tuesday,16:40,Sandyford,Red,26,50,Rain
+2026-11-10,Tuesday,09:53,Broombridge,Green,25,49,Rain
+2026-11-10,Tuesday,16:40,Sandyford,Red,29,56,Rain
 2026-11-10,Tuesday,16:46,Connolly,Red,26,50,Rain
 2026-11-11,Wednesday,08:21,Tallaght,Green,22,44,Dry
-2026-11-11,Wednesday,08:31,Broombridge,Green,22,44,Dry
-2026-11-11,Wednesday,12:10,Brides Glen,Red,20,42,Dry
+2026-11-11,Wednesday,08:31,Broombridge,Green,23,46,Dry
+2026-11-11,Wednesday,12:10,Brides Glen,Red,22,45,Dry
 2026-11-11,Wednesday,12:26,Connolly,Red,20,42,Dry
+2026-11-12,Thursday,08:19,Saggart,Green,34,61,Rain
+2026-11-12,Thursday,08:33,Broombridge,Green,26,44,Rain
+2026-11-12,Thursday,17:25,Sandyford,Red,31,58,Rain
+2026-11-12,Thursday,17:32,Connolly,Red,29,54,Rain
+2026-11-13,Friday,09:10,Saggart,Green,15,26,Cloudy
+2026-11-13,Friday,09:20,Broombridge,Green,17,29,Cloudy
+2026-11-13,Friday,11:44,Brides Glen,Red,22,41,Cloudy
+2026-11-13,Friday,11:53,The Point,Red,20,37,Cloudy
