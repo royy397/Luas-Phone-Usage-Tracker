@@ -63,3 +63,19 @@ date,day,time,luas_stop,line,people_on_phones,total_passengers,weather
 2026-11-13,Friday,09:20,Broombridge,Green,17,29,Cloudy
 2026-11-13,Friday,11:44,Brides Glen,Red,22,41,Cloudy
 2026-11-13,Friday,11:53,The Point,Red,20,37,Cloudy
+2026-11-16,Monday,12:18,Tallaght,Green,24,46,Cloudy
+2026-11-16,Monday,12:31,Broombridge,Green,25,48,Cloudy
+2026-11-16,Monday,17:41,Brides Glen,Red,30,57,Cloudy
+2026-11-16,Monday,17:53,Connolly,Red,28,53,Cloudy
+2026-11-17,Tuesday,09:18,Saggart,Green,21,39,Rain
+2026-11-17,Tuesday,09:31,Broombridge,Green,22,41,Rain
+2026-11-17,Tuesday,16:52,Sandyford,Red,27,51,Rain
+2026-11-17,Tuesday,17:06,Connolly,Red,25,47,Rain
+2026-11-18,Wednesday,09:07,Tallaght,Green,20,40,Dry
+2026-11-18,Wednesday,09:19,Broombridge,Green,21,42,Dry
+2026-11-18,Wednesday,12:18,Brides Glen,Red,19,38,Dry
+2026-11-18,Wednesday,12:31,Connolly,Red,18,35,Dry
+2026-11-19,Thursday,08:22,Saggart,Green,25,46,Rain
+2026-11-19,Thursday,08:35,Broombridge,Green,24,44,Rain
+2026-11-19,Thursday,17:28,Sandyford,Red,31,60,Rain
+2026-11-19,Thursday,17:42,The Point,Red,28,55,Rain
